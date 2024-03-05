@@ -1,4 +1,15 @@
 header{
-    background-color: greenyellow;
-    color: blueviolet;
+    background-color: rgb(155, 247, 18);
+    color: rgb(211, 192, 229);
+}
+{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
